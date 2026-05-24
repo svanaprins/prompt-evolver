@@ -1,40 +1,34 @@
-# 🤝 Contributing to **Prompt Evolver**
+# 📜 Code of Conduct
 
-We welcome contributions! Follow these guidelines to make the process smooth for everyone.
-
----
-## **📌 How to Contribute**
-### **1. Reporting Issues**
-- Check existing issues before creating a new one.
-- Include: Clear description, steps to reproduce, expected vs. actual behavior.
-
-### **2. Suggesting Features**
-- Open an **Issue** with the label `enhancement`.
-- Explain: What the feature does, why it’s useful, any relevant examples.
-
-### **3. Pull Requests (PRs)**
-- Fork the repo and create a **new branch** (`git checkout -b feature/your-feature`).
-- Commit with clear messages (e.g., `feat: add mutation rate config`).
-- Test your changes locally.
-- Reference the issue in your PR description (e.g., `Fixes #123`).
+## **Our Pledge**
+This repository is dedicated to **factual, ethical, and legal** documentation.
 
 ---
-## **🛠️ Development Setup**
-1. Clone the repo: `git clone https://github.com/svanaprins/prompt-evolver.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run tests (if any): `pytest`
+## **Core Principles**
+1. **Facts Only:** No opinions, theories, or speculation.
+2. **No Doxxing:** Never post unredacted personal information.
+3. **Legal Compliance:** Only public records and legally obtained documents.
+4. **Respect:** Treat all contributors and subjects with dignity.
 
 ---
-## **📜 Code Style**
-- Python: Follow [PEP 8](https://peps.python.org/pep-0008/).
-- Commits: Use [Conventional Commits](https://www.conventionalcommits.org/).
+## **Acceptable Contributions**
+✅ Public court documents, published news articles, official reports, verifiable timelines, redacted personal information.
 
 ---
-## **✅ PR Checklist**
-- [ ] Code works locally.
-- [ ] No breaking changes (unless discussed).
-- [ ] Tests pass (if applicable).
-- [ ] Documentation updated.
+## **Unacceptable Contributions**
+❌ Illegal/leaked private data, unredacted personal info, opinions/theories, defamatory content, copyrighted material.
 
 ---
-**Questions?** Open an issue or DM [@eljagrimur](https://x.com/eljagrimur).
+## **Enforcement**
+Violations will result in immediate PR rejection and potential ban. Legal violations will be reported.
+
+---
+## **Reporting Violations**
+Do NOT engage. Report via confidential issue or encrypted email.
+
+---
+## **Attribution**
+Inspired by [Contributor Covenant](https://www.contributor-covenant.org).
+
+---
+**The truth is not a crime. But hiding it is.**
